@@ -1,12 +1,11 @@
 {
-  "recommanded_events": [
+  "posts": [
     {
       "id": 1,
-      "title": "hello",
-      
+      "title": "hello"
     }
   ],
-  "top_events": {
+  "profile": {
     "name": "typicode"
   }
 }
